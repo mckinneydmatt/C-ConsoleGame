@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\ElevenFiftyProjects\81-3-8 SD\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
